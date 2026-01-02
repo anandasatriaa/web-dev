@@ -73,6 +73,24 @@ Chatbot cerdas dengan integrasi Google Gemini AI dan dukungan format Markdown.
 
 ## ⚙️ Instalasi & Konfigurasi
 
+### 0. Clone Repository dari GitHub
+
+1. Pastikan **Git** sudah terinstall di komputer Anda.
+2. Buka Terminal / Command Prompt.
+3. Jalankan perintah berikut:
+
+```bash
+git clone https://github.com/anandasatriaa/web-dev.git
+```
+
+4. Masuk ke folder project:
+
+```bash
+cd web-dev
+```
+
+---
+
 ### 1. Persiapan Database (MySQL)
 
 1. Pastikan MySQL pada **Laragon** atau **XAMPP** sudah berjalan.
