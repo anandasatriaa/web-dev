@@ -56,7 +56,7 @@ Chatbot cerdas dengan integrasi Google Gemini AI dan dukungan format Markdown.
   Monitoring total penjualan per produk dan sisa stok gudang secara akurat.
 
 - **Database Seeding**
-  Tersedia 10 data produk teknologi riil untuk memudahkan proses testing.
+  Tersedia 10 data produk teknologi.
 
 ### AI Chatbot Assistant
 
@@ -73,7 +73,7 @@ Chatbot cerdas dengan integrasi Google Gemini AI dan dukungan format Markdown.
 
 ## ⚙️ Instalasi & Konfigurasi
 
-### 0. Clone Repository dari GitHub
+### 1. Clone Repository dari GitHub
 
 1. Pastikan **Git** sudah terinstall di komputer Anda.
 2. Buka Terminal / Command Prompt.
@@ -91,7 +91,7 @@ cd web-dev
 
 ---
 
-### 1. Persiapan Database (MySQL)
+### 2. Persiapan Database (MySQL)
 
 1. Pastikan MySQL pada **Laragon** atau **XAMPP** sudah berjalan.
 2. Buat database baru dengan nama:
@@ -111,7 +111,7 @@ cd web-dev
 
 ---
 
-### 2. Persiapan AI Chatbot
+### 3. Persiapan AI Chatbot
 
 1. Masuk ke folder `ai-chatbot`:
 
@@ -129,7 +129,7 @@ cd web-dev
 
 ---
 
-### 3. Persiapan Portal Utama
+### 4. Persiapan Portal Utama
 
 1. Kembali ke folder root project:
 
