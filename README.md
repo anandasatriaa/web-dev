@@ -20,7 +20,8 @@ Halaman utama sebagai pintu masuk untuk mengakses seluruh sistem.
 
 Sistem manajemen pembelian dan stok produk berbasis database MySQL dengan tampilan tab yang responsif.
 
-![Admin Shop](./public/images/admin-shop.png)
+![Admin Shop 1](./public/images/admin-shop-1.png)
+![Admin Shop 2](./public/images/admin-shop-2.png)
 
 ### 3. AI Chatbot Assistant
 
