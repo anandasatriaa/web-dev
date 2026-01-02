@@ -1,0 +1,6 @@
+node_modules/
+.env
+admin-shop/node_modules/
+ai-chatbot/node_modules/
+ai-chatbot/.env
+.DS_Store
